@@ -5,6 +5,8 @@ public class TheRasmusFanBoys {
         System.out.println("TEEEEEEEEEEEEEEEEEAAA's ready!!");
     } 
 
+
+    //TODO Bendy pls add something
     public void wave() {
         System.out.println("Saliii");
     }
