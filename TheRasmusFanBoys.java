@@ -13,7 +13,8 @@ public class TheRasmusFanBoys {
 
     public void anotherMethod() {
         for (int i = 0; i < 100; i++) {
-            System.out.println("ich ha " + i + " viel Legos.");
+            System.out.println("ich ha " + 2*i + " viel Legos.");
+
         }
     }
 }
