@@ -10,4 +10,8 @@ public class TheRasmusFanBoys {
     public void wave() {
         System.out.println("Saliii");
     }
+
+    public void anotherMethod() {
+        System.out.println("another BUllshut print");    
+    }
 }
