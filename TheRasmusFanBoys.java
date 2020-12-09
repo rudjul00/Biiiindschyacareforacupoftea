@@ -4,4 +4,8 @@ public class TheRasmusFanBoys {
 
         System.out.println("TEEEEEEEEEEEEEEEEEAAA's ready!!");
     } 
+
+    public void wave() {
+        System.out.println("Saliii");
+    }
 }
