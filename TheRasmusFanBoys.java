@@ -10,4 +10,10 @@ public class TheRasmusFanBoys {
     public void wave() {
         System.out.println("Saliii");
     }
+
+    public void anotherMethod() {
+        for (int i = 0; i < 100; i++) {
+            System.out.println("ich ha " + i + " viel Legos.");
+        }
+    }
 }
